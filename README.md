@@ -54,7 +54,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/ROYCE-B/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -65,8 +65,8 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
 
 ### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
+ - `sudo docker pull Royce-B/pyphisher`
+ - `sudo docker run --rm -it Royce-B/pyphisher`
 
 #### Options
 
@@ -142,7 +142,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/ROYCE-B/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher Video</a>
